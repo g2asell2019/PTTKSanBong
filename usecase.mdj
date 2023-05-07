@@ -4351,8 +4351,8 @@
 										"$ref": "AAAAAAGH9a1yVmboYD4="
 									},
 									"font": "Arial;18;0",
-									"left": 502.0107421875,
-									"top": 109,
+									"left": 470.0107421875,
+									"top": 101,
 									"width": 95.0693359375,
 									"height": 18,
 									"text": "KhachHang"
@@ -4364,16 +4364,16 @@
 										"$ref": "AAAAAAGH9a1yVmboYD4="
 									},
 									"font": "Arial;18;1",
-									"left": 477,
-									"top": 109,
+									"left": 445,
+									"top": 101,
 									"width": 20.0107421875,
 									"height": 18,
 									"text": "uc"
 								}
 							],
 							"font": "Arial;18;0",
-							"left": 472,
-							"top": 104,
+							"left": 440,
+							"top": 96,
 							"width": 689,
 							"height": 577,
 							"nameLabel": {
@@ -9111,12 +9111,12 @@
 										"$ref": "AAAAAAGH9bAW85WLZ+s="
 									},
 									"font": "Arial;18;0",
-									"left": 707,
-									"top": 376,
+									"left": 711,
+									"top": 374,
 									"width": 74.0654296875,
 									"height": 18,
-									"alpha": 1.5707963267948966,
-									"distance": 30,
+									"alpha": 1.7132895201298248,
+									"distance": 30.610455730027933,
 									"hostEdge": {
 										"$ref": "AAAAAAGH9bAW85WNrpI="
 									},
